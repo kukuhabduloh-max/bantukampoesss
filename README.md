@@ -14,3 +14,7 @@ Aplikasi web marketplace layanan jasa mahasiswa (ketik laporan praktikum, desain
 2. Jalankan **Apache** dan **MySQL** melalui XAMPP Control Panel.
 3. Buka `http://localhost/phpmyadmin`, buat database baru bernama `bantukampus_db`, lalu import file `database.sql`.
 4. Akses aplikasi melalui browser di `http://localhost/bantukampus/`.
+
+
+
+
