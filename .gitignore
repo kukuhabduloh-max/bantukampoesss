@@ -1,0 +1,6 @@
+uploads/ktm/*
+uploads/payments/*
+!uploads/ktm/.gitkeep
+!uploads/payments/.gitkeep
+.DS_Store
+Thumbs.db
